@@ -52,7 +52,7 @@ CSS </br>
 
 #### Deployed
 
-Deployed Application: [webpage](https://secure-reef-07732.herokuapp.com) </br>
+Deployed Application: [webpage](https://mkolek1015.github.io/HTMLPORT/) </br>
 
 GitHub Repo: [Github](https://github.com/mkolek1015/A20_ReactPortfolio) </br>
 [Back to Table of Contents](#Table-of-Contents)
